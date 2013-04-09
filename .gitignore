@@ -1,0 +1,15 @@
+deps
+ebin
+log
+riak_kv_test
+.eunit
+.DS_Store
+out
+search-corpus/spam.0
+erl_crash.dump
+*~
+#*#
+doc/
+!doc/overview.edoc
+*.jar
+
